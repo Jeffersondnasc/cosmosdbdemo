@@ -29,3 +29,11 @@ Este projeto demonstra o uso do Azure Cosmos DB com ASP.NET Core.
 
 ## Branch
 Os commits devem ser enviados para a branch `dev`.
+
+
+Contato: jeffersondnasc@gmail.com
+
+![1](https://github.com/user-attachments/assets/52750135-954e-4605-abef-c31a7716f3b3)
+
+![2](https://github.com/user-attachments/assets/16e01eea-727e-4bf5-a9bf-d2d188af6041)
+
